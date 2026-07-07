@@ -1,0 +1,6 @@
+{
+  "name": "Teacher Planner",
+  "description": "A comprehensive web-based application for teachers to manage student attendance, grades, daily journals, lesson schedules, todo lists, and generate AI lesson plans.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
